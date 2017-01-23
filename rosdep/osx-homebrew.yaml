@@ -106,15 +106,15 @@ freetype:
 gazebo:
   osx:
     homebrew:
-      packages: [gazebo]
+      packages: [gazebo8]
 gazebo5:
   osx:
     homebrew:
-      packages: [osrf/simulation/gazebo5]
+      packages: [osrf/simulation/gazebo8]
 gazebo7:
   osx:
     homebrew:
-      packages: [gazebo7]
+      packages: [gazebo8]
 gccxml:
   osx:
     homebrew:

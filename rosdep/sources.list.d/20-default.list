@@ -1,5 +1,5 @@
 # os-specific listings first
-yaml https://raw.githubusercontent.com/ros/rosdistro/master/rosdep/osx-homebrew.yaml osx
+yaml https://raw.githubusercontent.com/CarlosRDomin/rosdistro/master/rosdep/osx-homebrew.yaml osx
 
 # generic
 yaml https://raw.githubusercontent.com/ros/rosdistro/master/rosdep/base.yaml
